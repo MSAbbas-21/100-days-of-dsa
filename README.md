@@ -15,10 +15,10 @@ Welcome to my 100 Days of DSA journey.
 
 ## 📅 Progress
 
-- ✅ Day 1 - Arrays & Big O
-- ⏳ Day 2 - Linear Search
-- ⬜ Day 3 - Binary Search
-- ⬜ Day 4 - Bubble Sort
+- Day 1 - Arrays & Big O
+- Day 2 - Linear Search
+- Day 3 - Binary Search
+- Day 4 - Bubble Sort
 
 ## 📂 Repository Structure
 
